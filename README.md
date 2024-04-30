@@ -5,9 +5,11 @@ This project focused on using different machine learning algorithms and Neural N
 ## Dataset Sources:
 
 [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140)
+
 [Dataset used on the model for SageMaker](https://www.kaggle.com/c/tweet-sentiment-extraction/data)
 
 ## References:
 
 [https://github.com/sergiovirahonda/TweetsSentimentAnalysis](https://github.com/sergiovirahonda/TweetsSentimentAnalysis)
+
 [https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark)
