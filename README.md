@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis-PySpark
 
-This project focused on using different machine learning algorithms and Neural Networks for sentiment analysis. Tweets cleaning, tokenization process, model building and finally implementing a model for the AWS SageMaker training job are parts of this project. My original intention was collecting my own dataset via PySpark from Twitter, and after labeling going to use this dataset for the project but Twitter has been monetized this process lately. PySpark code is still available on this project. Also added explanatory comments about crucial methods.
+This project focused on using different machine learning algorithms and Neural Networks for sentiment analysis. Tweet cleansing, the tokenization process, model building and finally implementing a model for the AWS SageMaker training job are parts of this project. My original intention was collecting my own dataset via PySpark from Twitter, and after labeling was going to use this dataset for the project but Twitter has been monetized this process lately. PySpark code is still available on this project. Also added explanatory comments about crucial methods.
 
 ## Dataset Sources:
 
